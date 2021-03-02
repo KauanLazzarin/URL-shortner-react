@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Ubuntu:wght@400;500;700&display=swap');
+
+:root {
+    --text: rgb(3, 3, 34);
+    --light-bg: rgb(227, 227, 250);
+}
+
+* {
+    border: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
